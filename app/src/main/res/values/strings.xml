@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GPA_TrimK1_Calculator</string>
+    <string name="activity_main_title">Welcome to MYGPA Calculator!</string>
+    <string name="course_code">Course Code</string>
+
+    <string name="course_grade">Course Grade</string>
+    <string name="course_credit_hours">Credit Hours</string>
+    <string name="label_gpa_result">Your GPA: </string>
+    <string name="label_credits_result">Your Total Credits: </string>
+    <string name="credithint">(0.0 – 4.0)</string>
+    <string name="gradehint">(0 – 100)</string>
+
+    <string name="course_one">Course 1</string>
+    <string name="course_two">Course 2</string>
+    <string name="course_three">Course 3</string>
+    <string name="course_four">Course 4</string>
+    <string name="course_five">Course 5</string>
+
+    <string name="user_instructions">To begin, please enter your Course Grade,
+        and Course Credit Hours below. \n\n You can add up to 5 courses</string>
+
+
+
+    <string name="button_add">+</string>
+    <string name="button_remove">-</string>
+    <string name="button_submit">Compute GPA</string>
+    <string name="button_erase">Clear</string>
+
+    <string name="empty_error_toast">Error! Please fill empty field!</string>
+
+</resources>
